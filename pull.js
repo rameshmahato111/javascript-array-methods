@@ -3,6 +3,6 @@
 const fruits = ['apple', 'banana', 'mango', 'orange']
 
 // removed itesms
-console.log(fruits.pop())
+console.log(fruits.pop())   
 // new array after removing item
 console.log(fruits)
